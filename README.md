@@ -3,40 +3,40 @@
 # tutorial 
 Paso 1: Crear un repositorio por medio de una terminal en git bash o con github en la parte crear un repositorio 
 en caso de github se crear el repositorio con git clone y el nombre de la variante
-![Repositori](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D5RTHaVvj97I&psig=AOvVaw3AdHMIF9hEBI0fJGrOsahv&ust=1710012779149000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDQjpS05YQDFQAAAAAdAAAAABAE)
+![Repositorio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D5RTHaVvj97I&psig=AOvVaw3AdHMIF9hEBI0fJGrOsahv&ust=1710012779149000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDQjpS05YQDFQAAAAAdAAAAABAE)
 ![Repositorio](https://docs.github.com/assets/cb-34248/images/help/repository/repo-create-global-nav-update.png)
 
 //
 
 Paso 2: Luego en la terminal de git bash para agregar un objeto se tiene que usar git add
 en caso de que sea README.md se añade git-add-README.md, pero si es en git hub darle click en iniciar con README.md
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Drbt1Fd3WRGU&psig=AOvVaw0iJgrjVjxlS-k4OD0n9DXa&ust=1710013593675000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCyupi35YQDFQAAAAAdAAAAABAE)
+![Repositorio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Drbt1Fd3WRGU&psig=AOvVaw0iJgrjVjxlS-k4OD0n9DXa&ust=1710013593675000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCyupi35YQDFQAAAAAdAAAAABAE)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomo.help%2Flinux%2Fprogramacion%2Fcomo-convertir-folder-local-en-un-repositorio-de-github&psig=AOvVaw0cJ63LOBGEZO7Ecr_j1e78&ust=1710013761930000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjRlem35YQDFQAAAAAdAAAAABAE)
+![Repositorio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomo.help%2Flinux%2Fprogramacion%2Fcomo-convertir-folder-local-en-un-repositorio-de-github&psig=AOvVaw0cJ63LOBGEZO7Ecr_j1e78&ust=1710013761930000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjRlem35YQDFQAAAAAdAAAAABAE)
 
 //
 Paso 3: luego clonar el repositorio por medio de git clone y el enlace del repositorio
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.stackoverflow.com%2Fquestions%2F394119%2Fcomo-obtener-la-url-del-repositorio-de-git-hub&psig=AOvVaw2Kw7-h6xp4S-UDuYjp7TBP&ust=1710014045946000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjklfC45YQDFQAAAAAdAAAAABAE)
+![Repositorio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.stackoverflow.com%2Fquestions%2F394119%2Fcomo-obtener-la-url-del-repositorio-de-git-hub&psig=AOvVaw2Kw7-h6xp4S-UDuYjp7TBP&ust=1710014045946000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjklfC45YQDFQAAAAAdAAAAABAE)
 
 //
 Paso 4: Modificar el repositorio por medio de Visual Studio Code
 //
 Paso 5: Ctrl+ s Para guardar el proceso del repositorio
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F007%2F382%2F340%2Foriginal%2Fsave-ctrl-s-button-icon-template-vector.jpg&tbnid=Mlqed6X3NPw8JM&vet=12ahUKEwjHyazXueWEAxWvgIQIHcUxAxQQMygAegQIARBH..i&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7382340-guardar-ctrl-s-boton-vector-icono-plantilla&docid=vWElnuIbvrjFXM&w=1920&h=1920&q=control%20s&ved=2ahUKEwjHyazXueWEAxWvgIQIHcUxAxQQMygAegQIARBH)
+![Repositorio](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F007%2F382%2F340%2Foriginal%2Fsave-ctrl-s-button-icon-template-vector.jpg&tbnid=Mlqed6X3NPw8JM&vet=12ahUKEwjHyazXueWEAxWvgIQIHcUxAxQQMygAegQIARBH..i&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F7382340-guardar-ctrl-s-boton-vector-icono-plantilla&docid=vWElnuIbvrjFXM&w=1920&h=1920&q=control%20s&ved=2ahUKEwjHyazXueWEAxWvgIQIHcUxAxQQMygAegQIARBH)
 
 //
 Paso 6: Poner un nombre al commit por medio de git commit -y el nombre del main
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20220906212952%2FGitCommit1.jpg&tbnid=XJPAm7UKK5wDnM&vet=12ahUKEwiYgu6TuuWEAxWpt4QIHVTIDJ0QMygAegQIARBU..i&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-git-commit%2F&docid=n3fp2vtv8OZ8JM&w=477&h=422&q=git%20commit&ved=2ahUKEwiYgu6TuuWEAxWpt4QIHVTIDJ0QMygAegQIARBU)
+![Repositorio](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20220906212952%2FGitCommit1.jpg&tbnid=XJPAm7UKK5wDnM&vet=12ahUKEwiYgu6TuuWEAxWpt4QIHVTIDJ0QMygAegQIARBU..i&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-git-commit%2F&docid=n3fp2vtv8OZ8JM&w=477&h=422&q=git%20commit&ved=2ahUKEwiYgu6TuuWEAxWpt4QIHVTIDJ0QMygAegQIARBU)
 
 //
 Paso 7 : Enviar el commit por medio de Visual Studio y hacer Push y se enviará al sitio donde lo creaste 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcode.visualstudio.com%2Fdocs%2Fsourcecontrol%2Foverview&psig=AOvVaw2jha5nO2DDAG_b439bGrVc&ust=1710014460350000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjT4bW65YQDFQAAAAAdAAAAABAE)
+![Repositorio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcode.visualstudio.com%2Fdocs%2Fsourcecontrol%2Foverview&psig=AOvVaw2jha5nO2DDAG_b439bGrVc&ust=1710014460350000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjT4bW65YQDFQAAAAAdAAAAABAE)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*fEymXmfqPwsolwGuGFvMIQ.png&tbnid=CqzFR-AS7FbCrM&vet=12ahUKEwjK8uPyuuWEAxVOnIQIHe_xCloQMygIegQIARBl..i&imgrefurl=https%3A%2F%2Fzeroesandones.medium.com%2Fhow-to-commit-and-push-your-changes-to-your-github-repository-in-vscode-77a7a3d7dd02&docid=ZkcFxHguMTsrlM&w=1160&h=578&q=commit%20y%20push%20visual%20studio&ved=2ahUKEwjK8uPyuuWEAxVOnIQIHe_xCloQMygIegQIARBl)
+![Repositorio](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*fEymXmfqPwsolwGuGFvMIQ.png&tbnid=CqzFR-AS7FbCrM&vet=12ahUKEwjK8uPyuuWEAxVOnIQIHe_xCloQMygIegQIARBl..i&imgrefurl=https%3A%2F%2Fzeroesandones.medium.com%2Fhow-to-commit-and-push-your-changes-to-your-github-repository-in-vscode-77a7a3d7dd02&docid=ZkcFxHguMTsrlM&w=1160&h=578&q=commit%20y%20push%20visual%20studio&ved=2ahUKEwjK8uPyuuWEAxVOnIQIHe_xCloQMygIegQIARBl)
 
 //
 Paso 8: En el boton Azul poner el nombre del commit y enviarlo para hacer cambios en tu repositorio
-![](https://i.stack.imgur.com/h5QXp.png)
+![Repositorio](https://i.stack.imgur.com/h5QXp.png)
 # COMANDOS
 -pwd: nos muestra la carpeta actual en la que nos encontramos.
 
